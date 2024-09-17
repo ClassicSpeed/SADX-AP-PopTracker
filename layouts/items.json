@@ -73,7 +73,7 @@
 					],
 					[
                         "KeyItem.Dynamite",
-//						"KeyItem.WindStone",
+						"KeyItem.WindStone",
 						"KeyItem.IceStone",
 						"",
 						"Progression.Emblem",
