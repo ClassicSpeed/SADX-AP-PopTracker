@@ -1,0 +1,132 @@
+﻿[
+  {
+    "name": "Station Square",
+    "chest_unopened_img": "images/checks/genericNotDone.png",
+    "chest_opened_img": "images/checks/genericDone.png",
+    "children": [
+      {
+        "name": "Casinopolis",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Test 1"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "station_square",
+            "shape": "diamond",
+            "x": 490,
+            "y": 350
+          }
+        ]
+      },
+      {
+        "name": "Twinkle Park",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Twinkle Park (Big - Mission C)"
+          },
+          {
+            "name": "Twinkle Park (Big - Mission B)"
+          },
+          {
+            "name": "Twinkle Park (Big - Mission A)"
+          },
+          {
+            "name": "Twinkle Park (Sonic - Mission C)"
+          },
+          {
+            "name": "Twinkle Park (Sonic - Mission B)"
+          },
+          {
+            "name": "Twinkle Park (Sonic - Mission A)"
+          },
+          {
+            "name": "Twinkle Park (Amy - Mission C)"
+          },
+          {
+            "name": "Twinkle Park (Amy - Mission B)"
+          },
+          {
+            "name": "Twinkle Park (Amy - Mission A)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "station_square",
+            "shape": "diamond",
+            "x": 965,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Speed Highway",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Test 1"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "station_square",
+            "shape": "diamond",
+            "x": 880,
+            "y": 600
+          }
+        ]
+      },
+      {
+        "name": "Main Station Square Area",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Test 1"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "station_square",
+            "x": 790,
+            "y": 660
+          }
+        ]
+      },
+      {
+        "name": "Station Area",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Test 1"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "station_square",
+            "x": 690,
+            "y": 470
+          }
+        ]
+      },
+      {
+        "name": "Casino Area",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Test 1"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "station_square",
+            "x": 550,
+            "y": 380
+          }
+        ]
+      },
+    ]
+  }
+]

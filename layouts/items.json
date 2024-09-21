@@ -1,158 +1,20 @@
-{
-    "characters": {
-        "type": "array",
-        "orientation": "horizontal",
-        "content": [
-            {
-                "type": "itemgrid",
-                "h_alignment": "left",
-				"item_size": "48",
-                "item_margin": "2,2",
-                "rows": [
-                    [
-                        "Sonic.Playable",
-                        "Sonic.LightShoes",
-                        "Sonic.CrystalRing",
-                        "Sonic.AncientLight"
-					],
-					[
-                        "Tails.Playable",
-                        "Tails.JetAnklet",
-                        "Tails.RhythmBadge",
-                        ""
-                    ],
-                    [
-                        "Knuckles.Playable",
-                        "Knuckles.ShovelClaw",
-                        "Knuckles.FightingGloves",
-						""
-					],
-					[
-                        "Amy.Playable",
-                        "Amy.WarriorFeather",
-                        "Amy.LongHammer",
-                        ""
-                    ],
-					[
-                        "Big.Playable",
-                        "Big.LifeBelt",
-                        "Big.PowerRod",
-						"Big.Lure",
-					],
-                    [
-                        "Gamma.Playable",
-                        "Gamma.JetBooster",
-                        "Gamma.LaserBlaster",
-						""
-					]
-	            ]
-            }
+﻿{
+  "characters": {
+    "type": "array",
+    "orientation": "horizontal",
+    "content": [
+      {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_size": "48",
+        "item_margin": "2,2",
+        "rows": [
+          [
+            "Sonic.Playable",
+            "ItemName.Sonic.LightShoes"
+          ]
         ]
-    },
-    "key_items": {
-        "type": "array",
-        "orientation": "horizontal",
-        "content": [
-            {
-                "type": "itemgrid",
-                "h_alignment": "left",
-				"item_size": "48",
-                "item_margin": "2,2",
-                "rows": [
-                    [
-                        "KeyItem.Train",
-                        "KeyItem.Boat",
-                        "KeyItem.Raft",
-						"KeyItem.JungleCart",
-					],
-					[
-						"KeyItem.HotelKeys",
-                        "KeyItem.CasinoKeys",
-                        "KeyItem.TwinkleParkTicket",
-                        "KeyItem.EmployeeCard",
-					],
-					[
-                        "KeyItem.Dynamite",
-						"KeyItem.WindStone",
-						"KeyItem.IceStone",
-						"",
-						"Progression.Emblem",
-					]
-                ]
-            }
-        ]
-    },
-
-	"character_options": {
-        "type": "array",
-        "orientation": "horizontal",
-        "content": [
-            {
-                "type": "itemgrid",
-                "h_alignment": "center",
-				"item_size": "96",
-                "item_margin": "2,2",
-                "rows": [
-					[
-						"Options.SonicMissions",
-						"Options.SonicLifeSanity",
-						"Options.RandomizedSonicUpgrades",
-					],
-					[
-						"Options.TailsMissions",
-                        "Options.TailsLifeSanity",
- 						"Options.RandomizedTailsUpgrades",
-					],
-					[
-						"Options.KnucklesMissions",
-                        "Options.KnucklesLifeSanity",
-						"Options.RandomizedKnucklesUpgrades",
-					],
-					[
-						"Options.AmyMissions",
-						"Options.AmyLifeSanity",
-						"Options.RandomizedAmyUpgrades",
-					],
-					[
-						"Options.BigMissions",
-						"Options.BigLifeSanity",
-						"Options.RandomizedBigUpgrades",
-					],
-					[
-						"Options.GammaMissions",
-						"Options.GammaLifeSanity",
-						"Options.RandomizedGammaUpgrades",
-					]
-                ]
-            }
-        ]
-    },
-	"misc_options": {
-        "type": "array",
-        "orientation": "horizontal",
-        "content": [
-            {
-                "type": "itemgrid",
-                "h_alignment": "center",
-				"item_size": "96",
-                "item_margin": "2,2",
-                "rows": [
-					[
-						"Options.StartingLocation",
-                        "Options.FieldEmblemChecks",
-                        "Options.SubLevelChecks",
-					],
-					[
-						"Options.BossChecks",
-						"Options.UnifyChaos4",
-                        "Options.UnifyChaos6",
-                        "Options.UnifyEggHornet",
-					],
-					[
-						"Options.EmblemRequirement",
-					]
-                ]
-            }
-        ]
-    }
+      }
+    ]
+  }
 }

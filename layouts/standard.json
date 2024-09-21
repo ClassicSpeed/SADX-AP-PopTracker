@@ -1,0 +1,32 @@
+﻿{
+  "tracker_default": {
+    "type": "container",
+    "background": "#272b36",
+    "content": {
+      "type": "dock",
+      "content": [
+        {
+          "type": "dock",
+          "dock": "left",
+          "h_alignment": "stretch",
+          "v_alignment": "center",
+          "content": [
+            {
+              "type": "group",
+              "header": "Characters",
+              "dock": "top",
+              "content": {
+                "type": "layout",
+                "key": "characters"
+              }
+            }
+          ]
+        },
+        {
+          "type": "map",
+          "maps": [ "station_square" ]
+        }
+      ]
+    }
+  }
+}

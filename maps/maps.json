@@ -1,44 +1,8 @@
 ﻿[
-    {
-        "name": "station_square",
-        "location_size": 40,
-        "location_border_thickness": 5,
-        "img": "images/maps/fields/SSmap.png"
-    },
-    {
-        "name": "mystic_ruins_station",
-        "location_size": 40,
-        "location_border_thickness": 5,
-        "img": "images/maps/fields/MRSmap.png"
-    },
-    {
-        "name": "mystic_ruins_angel_island",
-        "location_size": 40,
-        "location_border_thickness": 5,
-        "img": "images/maps/fields/MRAImap.png"
-    },
-    {
-        "name": "mystic_ruins_jungle",
-        "location_size": 40,
-        "location_border_thickness": 5,
-        "img": "images/maps/fields/MRJmap.png"
-    },
-    {
-        "name": "egg_carrier_transformed",
-        "location_size": 40,
-        "location_border_thickness": 5,
-        "img": "images/maps/fields/ECTmap.png"
-    },
-    {
-        "name": "egg_carrier_untransformed",
-        "location_size": 40,
-        "location_border_thickness": 5,
-        "img": "images/maps/fields/ECUTmap.png"
-    },
-	{
-        "name": "egg_carrier_hall",
-        "location_size": 40,
-        "location_border_thickness": 5,
-        "img": "images/maps/fields/ECHmap.png"
-    }
+  {
+    "name": "station_square",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/SSmap.png"
+  }
 ]

@@ -1,0 +1,27 @@
+﻿[
+  {
+    "name": "Emerald Coast",
+    "chest_unopened_img": "images/checks/genericNotDone.png",
+    "chest_opened_img": "images/checks/genericDone.png",
+    "access_rules": [],
+    "sections": [
+      {
+        "name": "Emerald Coast (Sonic - Mission C)"
+      },
+      {
+        "name": "Emerald Coast (Sonic - Mission B)"
+      },
+      {
+        "name": "Emerald Coast (Sonic - Mission A)"
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "station_square",
+        "shape": "diamond",
+        "x": 490,
+        "y": 815
+      }
+    ]
+  }
+]

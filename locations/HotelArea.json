@@ -1,0 +1,21 @@
+﻿[
+  {
+    "name": "Hotel Area",
+    "chest_unopened_img": "images/checks/genericNotDone.png",
+    "chest_opened_img": "images/checks/genericDone.png",
+    "access_rules": [],
+    "sections": [
+      {
+        "name": "Crystal Ring Upgrade Point",
+        "access_rules":"$GetLocationAccess|101"
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "station_square",
+        "x": 550,
+        "y": 770
+      }
+    ]
+  }
+]
